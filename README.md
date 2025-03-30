@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssh-rsa (Call me Ema!)
 - 👀 I’m interested in Cyber Security, Python, and aquariums
-- 🌱 I’m currently learning Node.js, and advanced appsec concepts
+- 🌱 I’m currently learning go, python, and working as a blue teamer
 - 💞️ I’m looking to collaborate on anything!
 - 📫 You can reach me at https://ssh-rsa.dev
 <!---
