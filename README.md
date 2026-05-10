@@ -49,7 +49,7 @@ I'm a passionate engineer who loves **Security** and **jungle music** 🎵. I sp
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssh-rsa&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ssh-rsa&theme=dark)](https://git.io/streak-stats)
 
 ---
 
